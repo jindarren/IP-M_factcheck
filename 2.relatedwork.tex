@@ -1,0 +1,54 @@
+\section{Related Work}
+\subsection{Health Misinformation Fact-Checking and Fact-Checking Chatbots}
+Health misinformation is a specific type of misinformation. It is usually based on anti-scientific statements, inaccurate or unproven
+information, and personal anecdotes~\cite[]{teoh2019power,qi2016misinformation}  that can mislead individuals in their health decisions and have potentially harmful effects on public health.
+In this paper, we follow Swire-Thompson and Lazer's~\cite[]{swire2019public} definition of health misinformation, which is information contrary to the epistemic consensus of the scientific community regarding a phenomenon.
+Health misinformation in the real world is often pervasive and complex. 
+On the one hand, it is widespread in interpersonal communication\cite[]{difonzo2012rumors} and mass media\cite[]{southwell2015prevalence}.
+The development of the Internet and social media has amplified its dissemination\cite[]{southwell2015prevalence}; 
+On the other hand, the common types of misinformation in life are typically not outright falsehoods but misleading claims\cite[]{al2018drug}. It might be subtly misleading as a result of framing, word choice, and hints\cite[]{ecker2014effects} or unintentionally caused by over-simplification, over-dramatization, and misrepresentation (i.e., confusing correlation or causation)\cite[]{lewandowsky2012misinformation}.
+Therefore, in most cases individuals without professional backgrounds cannot easily identify health misinformation.
+Debunking or corrective information from fact-checking organizations and professionals remains the most effective strategy to mitigate the impact of negative health misinformation at this time, compared to other interventions such as forewarning\cite[]{walter2018unring,walter2020meta,porter2021global}.
+
+Fact-checking is the process of evaluating verifiable claims made in public statements\cite[]{brandtzaeg2017trust}, and various institutions currently give fact-checking or debunking content through their websites\cite[]{pal2019communicating}, such as Factcheck.org, Snopes, AFP FactCheck, etc.
+Numerous studies have demonstrated that these corrective messages are effective in reducing health misperceptions\cite[]{walter2018unring,bode2018see,lee2020effects} and often are durable\cite[]{porter2021global}.
+With the global outbreak of COVID-19, misinformation regarding the epidemic has also proliferated. 
+In this context, many institutions and organizations have launched fact-checking services to provide corrective information via chatbots, such as the "WHO Health Alert"\cite[]{walwema2021health} from World Health Organization and the FactChat chatbot\footnote{\url{https://api.whatsapp.com/send/?phone=17272912606&text=hi&app_absent=0}} from the International Fact-Checking Network (IFCN). 
+At present, chatbots have emerged as a promising form of combating misinformation.
+For instance, in debunking false information regarding Covid-19 vaccinations, research shows that conversation with the chatbot significantly increased participants' vaccination intentions\cite[]{altay2021information}.
+A rising number of such chatbots\cite[]{rodsawang2020designing,roque2021botcovid,siedlikowski2021chloe, almalki2020health} are being developed to serve the public.
+
+In terms of human-computer interaction, a chatbot can increase the process of interaction compared to a webpage. 
+However, the role of this design in the context of fact-checking is not yet clear. 
+In this paper, we investigate the differences between two types of interaction, webpage and chatbot, in delivering fact-checking content. 
+Specifically, we tested the following research questions:
+
+\textbf{Can fact-checking content delivered via a chatbot have better corrective effectiveness(RQ1), lower effort expectations (easier to use) (RQ2), and higher intention to use and check(RQ3) compared to a webpage?}
+
+\subsection{Effect of Text-Based Chatbots on Fact-Checking}
+The popularity of text-based chatbots in recent years has enabled this type of interaction to be employed in a variety of fields, including customer support\cite[]{fiore2019forgot,nguyen2019potential}, healthcare\cite[]{huang2018chatbot,brixey2017shihbot}, and education\cite[]{hien2018intelligent,kasthuri2021chatbot}, and has been well received by users. 
+A similar trend has also emerged in the fact-checking field, with an increasing number of platforms launching fact-checking chatbots,as mentioned before.
+Translating fact-checking content into a question-and-answer chatbot is not difficult.
+Dubious claims can be set as questions, while explanations and rebuttals serve as chatbot responses. 
+This process can already be automated by current machine learning algorithms\cite[]{gupta2021dialfact,kotonya2020explainable}.
+However, current research on fact-checking chatbots focuses on system design and usability. It does not compare with webpages to determine which interaction type is more successful in delivering fact-checking content and inspiring users' intention to verify and use.
+
+
+Previous research has found that using a chatbot can have an impact on people's cognitive effort when completing tasks. Humans must expend cognitive resources when processing information to complete tasks, but such resources are limited. More complex tasks imply higher cognitive load and require more cognitive resources or cognitive effort. Edgerly has pointed out that audiences are not willing to expend extra cognitive effort to verify information. Brachten et al. showed that the group using chatbots had lower cognitive load and better task performance when solving a complex work task. However, Nguyen et al. found that the chatbot interface led to higher cognitive effort compared to the menu-based interface in two information search tasks. When users view fact-checking content via a web page, the lengthy content may lead to information overload and the multitude of elements may also impact users' visual processing, which may increase users' cognitive load. In contrast, chatbot interfaces have fewer elements and more natural interactions, which may lead to lower cognitive effort. Hence, we propose the following:
+Hypothesis1:
+The chatbot interface will lead to a lower level of cognitive effort than with a web page interface.
+
+
+
+\subsection{Effect of Highlighting Professional Titles}
+As laypeople have limited expertise in spotting health misinformation, institutional experts and healthcare professionals are the primary force able to fact-check this type of misinformation\cite[]{bautista2021healthcare}.
+Fact-checking can be considered as a type of persuasion\cite[]{garrett2013undermining}, and the source of information is an important heuristic cues in persuasion\cite[]{mondak1993public}.
+This is because heuristic reasoning is often used as a shortcut when processing information and dealing with uncertainty\cite[]{kahan2010fears}, and source cues provide the key basis for individuals when judging the credibility of information. 
+When individuals perceive a message to be more believable, they are more likely to accept and be affected by it\cite{austin1994source}.
+According to Varga and Bode~\cite[]{vraga2017using}, expert sources(i.e. the Centers for Disease Control and Prevention) are considered more credible than laypeople and significantly correct misconceptions.
+Wang\cite[]{wang2021debunking} came to similar conclusions in the study on debunking misinformation about genetically modified food safety. These studies confirm the effectiveness of source cues in debunking misinformation.
+Showing professional source cues for information may trigger expertise heuristics that imply "experts can be trusted"\cite[]{sundar2008main}.
+Specifically for this study, we attract the user's attention to the expertise of the source by boldly displaying the verification experts' titles and adding avatars, in the hope of enhancing the effectiveness of the correction.
+Therefore, we hypothesize the following:
+
+\textbf{Compared to formal style, highlighting professionals' titles leads to higher perceived effectiveness(H2a) and actual effectiveness(H2b).}
