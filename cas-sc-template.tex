@@ -96,14 +96,7 @@
 %  Credit authorship
 %\credit{Conceptualization of this study, Methodology, Software}
 
-% Address/affiliation
-\affiliation[1]{organization={Elsevier B.V.},
-    addressline={Radarweg 29}, 
-    city={Amsterdam},
-    % citysep={}, % Uncomment if no comma needed between city and postcode
-    postcode={1043 NX}, 
-    % state={},
-    country={The Netherlands}}
+% Address/affiliation}
 
 % Second author
 \author[2,4]{Han Theh Thanh}[style=chinese]
@@ -120,13 +113,6 @@
 %\credit{Data curation, Writing - Original draft preparation}
 
 % Address/affiliation
-\affiliation[2]{organization={Sayahna Foundation},
-    % addressline={}, 
-    city={Jagathy},
-    % citysep={}, % Uncomment if no comma needed between city and postcode
-    postcode={695014}, 
-    state={Trivandrum},
-    country={India}}
 
 % Fourth author
 \author%
@@ -136,14 +122,6 @@
 \fnmark[1,3]
 \ead{rishi@stmdocs.in}
 \ead[URL]{www.stmdocs.in}
-
-\affiliation[3]{organization={STM Document Engineering Pvt Ltd.},
-    addressline={Mepukada}, 
-    city={Malayinkil},
-    % citysep={}, % Uncomment if no comma needed between city and postcode
-    postcode={695571}, 
-    state={Trivandrum},
-    country={India}}
 
 % Corresponding author text
 %\cortext[cor1]{Corresponding author}
@@ -186,8 +164,12 @@ quadrupole exciton \sep polariton \sep \WGM \sep \BEC
 
 \maketitle
 
-
+\input{1.introduction}
+\input{2.relatedwork}
+\input{3.method}
 \input{4.results}
+\input{5.discussion}
+
 
 
 \printcredits
@@ -195,7 +177,6 @@ quadrupole exciton \sep polariton \sep \WGM \sep \BEC
 %% Loading bibliography style file
 % \bibliographystyle{model1-num-names}
 \bibliographystyle{cas-model2-names}
-
 % Loading bibliography database
 \bibliography{cas-refs}
 

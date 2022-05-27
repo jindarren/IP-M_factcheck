@@ -1,0 +1,5 @@
+As laypeople have limited expertise in spotting health misinformation, institutional experts and healthcare professionals are the primary force able to fact-check this type of misinformation\cite[]{bautista2021healthcare}.
+The information source as an important heuristic cue affects the judgment of the information credibility and thus the effectiveness of persuasion\cite[]{chaiken1980heuristic}.
+
+\textbf{Hypothesis 2a and 2b}:
+The chatbot interface will lead to a higher level of intention to check and intention to use than the web page interface.

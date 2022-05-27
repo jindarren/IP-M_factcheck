@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cas-sc-template.aux
+The style file: cas-model2-names.bst
+Database file #1: cas-refs.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 48 entries,
+            2990 wiz_defined-function locations,
+            1031 strings with 16408 characters,
+and the built_in function-call counts, 31645 in all, are:
+= -- 2414
+> -- 1216
+< -- 25
++ -- 486
+- -- 420
+* -- 3430
+:= -- 4601
+add.period$ -- 141
+call.type$ -- 48
+change.case$ -- 377
+chr.to.int$ -- 48
+cite$ -- 48
+duplicate$ -- 2395
+empty$ -- 2346
+format.name$ -- 578
+if$ -- 5855
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 460
+newline$ -- 252
+num.names$ -- 192
+pop$ -- 876
+preamble$ -- 1
+purify$ -- 331
+quote$ -- 0
+skip$ -- 671
+stack$ -- 0
+substring$ -- 1420
+swap$ -- 1692
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 426
+warning$ -- 0
+while$ -- 217
+width$ -- 0
+write$ -- 675

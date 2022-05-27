@@ -1,0 +1,418 @@
+\begin{thebibliography}{48}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Al~Khaja et~al.(2018)Al~Khaja, AlKhaja and Sequeira}]{al2018drug}
+\bibinfo{author}{Al~Khaja, K.A.}, \bibinfo{author}{AlKhaja, A.K.},
+  \bibinfo{author}{Sequeira, R.P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Drug information, misinformation, and disinformation
+  on social media: a content analysis study}.
+\newblock \bibinfo{journal}{Journal of public health policy}
+  \bibinfo{volume}{39}, \bibinfo{pages}{343--357}.
+%Type = Article
+\bibitem[{Almalki and Azeez(2020)}]{almalki2020health}
+\bibinfo{author}{Almalki, M.}, \bibinfo{author}{Azeez, F.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Health chatbots for fighting covid-19: a scoping
+  review}.
+\newblock \bibinfo{journal}{Acta Informatica Medica} \bibinfo{volume}{28},
+  \bibinfo{pages}{241}.
+%Type = Article
+\bibitem[{Altay et~al.(2021)Altay, Hacquin, Chevallier and
+  Mercier}]{altay2021information}
+\bibinfo{author}{Altay, S.}, \bibinfo{author}{Hacquin, A.S.},
+  \bibinfo{author}{Chevallier, C.}, \bibinfo{author}{Mercier, H.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Information delivered by a chatbot has a positive
+  impact on covid-19 vaccines attitudes and intentions.}
+\newblock \bibinfo{journal}{Journal of Experimental Psychology: Applied} .
+%Type = Article
+\bibitem[{Amazeen et~al.(2018)Amazeen, Thorson, Muddiman and
+  Graves}]{amazeen2018correcting}
+\bibinfo{author}{Amazeen, M.A.}, \bibinfo{author}{Thorson, E.},
+  \bibinfo{author}{Muddiman, A.}, \bibinfo{author}{Graves, L.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Correcting political and consumer misperceptions: The
+  effectiveness and effects of rating scale versus contextual correction
+  formats}.
+\newblock \bibinfo{journal}{Journalism \& Mass Communication Quarterly}
+  \bibinfo{volume}{95}, \bibinfo{pages}{28--48}.
+%Type = Article
+\bibitem[{Austin and Dong(1994)}]{austin1994source}
+\bibinfo{author}{Austin, E.W.}, \bibinfo{author}{Dong, Q.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{Source v. content effects on judgments of news
+  believability}.
+\newblock \bibinfo{journal}{Journalism quarterly} \bibinfo{volume}{71},
+  \bibinfo{pages}{973--983}.
+%Type = Article
+\bibitem[{Bode and Vraga(2018)}]{bode2018see}
+\bibinfo{author}{Bode, L.}, \bibinfo{author}{Vraga, E.K.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{See something, say something: Correction of global
+  health misinformation on social media}.
+\newblock \bibinfo{journal}{Health communication} \bibinfo{volume}{33},
+  \bibinfo{pages}{1131--1140}.
+%Type = Article
+\bibitem[{Brachten et~al.(2020)Brachten, Br{\"u}nker, Frick, Ross and
+  Stieglitz}]{brachten2020ability}
+\bibinfo{author}{Brachten, F.}, \bibinfo{author}{Br{\"u}nker, F.},
+  \bibinfo{author}{Frick, N.R.}, \bibinfo{author}{Ross, B.},
+  \bibinfo{author}{Stieglitz, S.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{On the ability of virtual agents to decrease
+  cognitive load: an experimental study}.
+\newblock \bibinfo{journal}{Information Systems and e-Business Management}
+  \bibinfo{volume}{18}, \bibinfo{pages}{187--207}.
+%Type = Article
+\bibitem[{Brandtzaeg and F{\o}lstad(2017)}]{brandtzaeg2017trust}
+\bibinfo{author}{Brandtzaeg, P.B.}, \bibinfo{author}{F{\o}lstad, A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Trust and distrust in online fact-checking services}.
+\newblock \bibinfo{journal}{Communications of the ACM} \bibinfo{volume}{60},
+  \bibinfo{pages}{65--71}.
+%Type = Article
+\bibitem[{Chaiken(1980)}]{chaiken1980heuristic}
+\bibinfo{author}{Chaiken, S.}, \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{Heuristic versus systematic information processing
+  and the use of source versus message cues in persuasion.}
+\newblock \bibinfo{journal}{Journal of personality and social psychology}
+  \bibinfo{volume}{39}, \bibinfo{pages}{752}.
+%Type = Article
+\bibitem[{DiFonzo et~al.(2012)DiFonzo, Robinson, Suls and
+  Rini}]{difonzo2012rumors}
+\bibinfo{author}{DiFonzo, N.}, \bibinfo{author}{Robinson, N.M.},
+  \bibinfo{author}{Suls, J.M.}, \bibinfo{author}{Rini, C.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Rumors about cancer: Content, sources, coping,
+  transmission, and belief}.
+\newblock \bibinfo{journal}{Journal of health communication}
+  \bibinfo{volume}{17}, \bibinfo{pages}{1099--1115}.
+%Type = Article
+\bibitem[{Dillard et~al.(2007)Dillard, Shen and Vail}]{dillard2007does}
+\bibinfo{author}{Dillard, J.P.}, \bibinfo{author}{Shen, L.},
+  \bibinfo{author}{Vail, R.G.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Does perceived message effectiveness cause persuasion
+  or vice versa? 17 consistent answers}.
+\newblock \bibinfo{journal}{Human Communication Research} \bibinfo{volume}{33},
+  \bibinfo{pages}{467--488}.
+%Type = Article
+\bibitem[{Ecker et~al.(2014)Ecker, Lewandowsky, Chang and
+  Pillai}]{ecker2014effects}
+\bibinfo{author}{Ecker, U.K.}, \bibinfo{author}{Lewandowsky, S.},
+  \bibinfo{author}{Chang, E.P.}, \bibinfo{author}{Pillai, R.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{The effects of subtle misinformation in news
+  headlines.}
+\newblock \bibinfo{journal}{Journal of experimental psychology: applied}
+  \bibinfo{volume}{20}, \bibinfo{pages}{323}.
+%Type = Article
+\bibitem[{Ecker et~al.(2015)Ecker, Lewandowsky, Cheung and
+  Maybery}]{ecker2015he}
+\bibinfo{author}{Ecker, U.K.}, \bibinfo{author}{Lewandowsky, S.},
+  \bibinfo{author}{Cheung, C.S.}, \bibinfo{author}{Maybery, M.T.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{He did it! she did it! no, she did not! multiple
+  causal explanations and the continued influence of misinformation}.
+\newblock \bibinfo{journal}{Journal of Memory and Language}
+  \bibinfo{volume}{85}, \bibinfo{pages}{101--115}.
+%Type = Article
+\bibitem[{Edgerly(2017)}]{edgerly2017seeking}
+\bibinfo{author}{Edgerly, S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Seeking out and avoiding the news media: Young
+  adults’ proposed strategies for obtaining current events information}.
+\newblock \bibinfo{journal}{Mass Communication and Society}
+  \bibinfo{volume}{20}, \bibinfo{pages}{358--377}.
+%Type = Book
+\bibitem[{Fennis and Stroebe(2015)}]{fennis2015psychology}
+\bibinfo{author}{Fennis, B.M.}, \bibinfo{author}{Stroebe, W.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{The psychology of advertising}.
+\newblock \bibinfo{publisher}{Psychology Press}.
+%Type = Article
+\bibitem[{Garrett et~al.(2013)Garrett, Nisbet and
+  Lynch}]{garrett2013undermining}
+\bibinfo{author}{Garrett, R.K.}, \bibinfo{author}{Nisbet, E.C.},
+  \bibinfo{author}{Lynch, E.K.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Undermining the corrective effects of media-based
+  political fact checking? the role of contextual cues and na{\"\i}ve theory}.
+\newblock \bibinfo{journal}{Journal of Communication} \bibinfo{volume}{63},
+  \bibinfo{pages}{617--637}.
+%Type = Article
+\bibitem[{Gupta et~al.(2021)Gupta, Wu, Liu and Xiong}]{gupta2021dialfact}
+\bibinfo{author}{Gupta, P.}, \bibinfo{author}{Wu, C.S.}, \bibinfo{author}{Liu,
+  W.}, \bibinfo{author}{Xiong, C.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Dialfact: A benchmark for fact-checking in dialogue}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2110.08222} .
+%Type = Article
+\bibitem[{Han and Lee(2022)}]{han2022faq}
+\bibinfo{author}{Han, S.}, \bibinfo{author}{Lee, M.K.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Faq chatbot and inclusive learning in massive open
+  online courses}.
+\newblock \bibinfo{journal}{Computers \& Education} \bibinfo{volume}{179},
+  \bibinfo{pages}{104395}.
+%Type = Article
+\bibitem[{Harkness et~al.(2004)Harkness, Pennell and
+  Schoua-Glusberg}]{harkness2004survey}
+\bibinfo{author}{Harkness, J.}, \bibinfo{author}{Pennell, B.E.},
+  \bibinfo{author}{Schoua-Glusberg, A.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Survey questionnaire translation and assessment}.
+\newblock \bibinfo{journal}{Methods for testing and evaluating survey
+  questionnaires} , \bibinfo{pages}{453--473}.
+%Type = Article
+\bibitem[{Harper et~al.(2009)Harper, Michailidou and
+  Stevens}]{harper2009toward}
+\bibinfo{author}{Harper, S.}, \bibinfo{author}{Michailidou, E.},
+  \bibinfo{author}{Stevens, R.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Toward a definition of visual complexity as an
+  implicit measure of cognitive load}.
+\newblock \bibinfo{journal}{ACM Transactions on Applied Perception (TAP)}
+  \bibinfo{volume}{6}, \bibinfo{pages}{1--18}.
+%Type = Article
+\bibitem[{Ischen et~al.(2020)Ischen, Araujo, van Noort, Voorveld and
+  Smit}]{ischen2020here}
+\bibinfo{author}{Ischen, C.}, \bibinfo{author}{Araujo, T.},
+  \bibinfo{author}{van Noort, G.}, \bibinfo{author}{Voorveld, H.},
+  \bibinfo{author}{Smit, E.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{“i am here to assist you today”: The role of
+  entity, interactivity and experiential perceptions in chatbot persuasion}.
+\newblock \bibinfo{journal}{Journal of Broadcasting \& Electronic Media}
+  \bibinfo{volume}{64}, \bibinfo{pages}{615--639}.
+%Type = Article
+\bibitem[{Kahan et~al.(2010)Kahan, Braman, Cohen, Gastil and
+  Slovic}]{kahan2010fears}
+\bibinfo{author}{Kahan, D.M.}, \bibinfo{author}{Braman, D.},
+  \bibinfo{author}{Cohen, G.L.}, \bibinfo{author}{Gastil, J.},
+  \bibinfo{author}{Slovic, P.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Who fears the hpv vaccine, who doesn’t, and why? an
+  experimental study of the mechanisms of cultural cognition}.
+\newblock \bibinfo{journal}{Law and human behavior} \bibinfo{volume}{34},
+  \bibinfo{pages}{501--516}.
+%Type = Article
+\bibitem[{Kotonya and Toni(2020)}]{kotonya2020explainable}
+\bibinfo{author}{Kotonya, N.}, \bibinfo{author}{Toni, F.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Explainable automated fact-checking for public health
+  claims}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2010.09926} .
+%Type = Article
+\bibitem[{Lee et~al.(2020)Lee, Sanders-Jackson and Tan}]{lee2020effects}
+\bibinfo{author}{Lee, S.J.}, \bibinfo{author}{Sanders-Jackson, A.},
+  \bibinfo{author}{Tan, A.S.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Effects of current and enhanced tobacco corrective
+  messages on smokers’ intention to quit smoking and intention to purchase
+  cigarettes}.
+\newblock \bibinfo{journal}{Nicotine and Tobacco Research}
+  \bibinfo{volume}{22}, \bibinfo{pages}{569--575}.
+%Type = Article
+\bibitem[{Lewandowsky et~al.(2012)Lewandowsky, Ecker, Seifert, Schwarz and
+  Cook}]{lewandowsky2012misinformation}
+\bibinfo{author}{Lewandowsky, S.}, \bibinfo{author}{Ecker, U.K.},
+  \bibinfo{author}{Seifert, C.M.}, \bibinfo{author}{Schwarz, N.},
+  \bibinfo{author}{Cook, J.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Misinformation and its correction: Continued
+  influence and successful debiasing}.
+\newblock \bibinfo{journal}{Psychological science in the public interest}
+  \bibinfo{volume}{13}, \bibinfo{pages}{106--131}.
+%Type = Article
+\bibitem[{Mondak(1993)}]{mondak1993public}
+\bibinfo{author}{Mondak, J.J.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Public opinion and heuristic processing of source
+  cues}.
+\newblock \bibinfo{journal}{Political behavior} \bibinfo{volume}{15},
+  \bibinfo{pages}{167--192}.
+%Type = Article
+\bibitem[{Nguyen et~al.(2022)Nguyen, Sidorova and Torres}]{nguyen2022user}
+\bibinfo{author}{Nguyen, Q.N.}, \bibinfo{author}{Sidorova, A.},
+  \bibinfo{author}{Torres, R.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{User interactions with chatbot interfaces vs.
+  menu-based interfaces: An empirical study}.
+\newblock \bibinfo{journal}{Computers in Human Behavior} \bibinfo{volume}{128},
+  \bibinfo{pages}{107093}.
+%Type = Article
+\bibitem[{Noar et~al.(2020)Noar, Barker, Bell and Yzer}]{noar2020does}
+\bibinfo{author}{Noar, S.M.}, \bibinfo{author}{Barker, J.},
+  \bibinfo{author}{Bell, T.}, \bibinfo{author}{Yzer, M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Does perceived message effectiveness predict the
+  actual effectiveness of tobacco education messages? a systematic review and
+  meta-analysis}.
+\newblock \bibinfo{journal}{Health communication} \bibinfo{volume}{35},
+  \bibinfo{pages}{148--157}.
+%Type = Article
+\bibitem[{Noar et~al.(2010)Noar, Palmgreen, Zimmerman, Lustria and
+  Lu}]{noar2010assessing}
+\bibinfo{author}{Noar, S.M.}, \bibinfo{author}{Palmgreen, P.},
+  \bibinfo{author}{Zimmerman, R.S.}, \bibinfo{author}{Lustria, M.L.A.},
+  \bibinfo{author}{Lu, H.Y.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Assessing the relationship between perceived message
+  sensation value and perceived message effectiveness: Analysis of psas from an
+  effective campaign}.
+\newblock \bibinfo{journal}{Communication Studies} \bibinfo{volume}{61},
+  \bibinfo{pages}{21--45}.
+%Type = Inproceedings
+\bibitem[{Pal and Loke(2019)}]{pal2019communicating}
+\bibinfo{author}{Pal, A.}, \bibinfo{author}{Loke, C.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Communicating fact to combat fake: Analysis of
+  fact-checking websites}, in: \bibinfo{booktitle}{Proceedings of the 2019
+  International Conference on Information Technology and Computer
+  Communications}, pp. \bibinfo{pages}{66--73}.
+%Type = Article
+\bibitem[{Porter and Wood(2021)}]{porter2021global}
+\bibinfo{author}{Porter, E.}, \bibinfo{author}{Wood, T.J.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The global effectiveness of fact-checking: Evidence
+  from simultaneous experiments in argentina, nigeria, south africa, and the
+  united kingdom}.
+\newblock \bibinfo{journal}{Proceedings of the National Academy of Sciences}
+  \bibinfo{volume}{118}.
+%Type = Article
+\bibitem[{Qi et~al.(2016)Qi, Trang, Doong, Kang and
+  Chien}]{qi2016misinformation}
+\bibinfo{author}{Qi, J.}, \bibinfo{author}{Trang, T.}, \bibinfo{author}{Doong,
+  J.}, \bibinfo{author}{Kang, S.}, \bibinfo{author}{Chien, A.L.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Misinformation is prevalent in psoriasis-related
+  youtube videos}.
+\newblock \bibinfo{journal}{Dermatology online journal} \bibinfo{volume}{22}.
+%Type = Article
+\bibitem[{Rodsawang et~al.(2020)Rodsawang, Thongkliang, Intawong, Sonong,
+  Thitiwatthana and Chottanapund}]{rodsawang2020designing}
+\bibinfo{author}{Rodsawang, C.}, \bibinfo{author}{Thongkliang, P.},
+  \bibinfo{author}{Intawong, T.}, \bibinfo{author}{Sonong, A.},
+  \bibinfo{author}{Thitiwatthana, Y.}, \bibinfo{author}{Chottanapund, S.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Designing a competent chatbot to counter the covid-19
+  pandemic and empower risk communication in an emergency response system}.
+\newblock \bibinfo{journal}{OSIR Journal} \bibinfo{volume}{13}.
+%Type = Inproceedings
+\bibitem[{Roque et~al.(2021)Roque, Cavalcanti, Nascimento, Souza and
+  Queiroz}]{roque2021botcovid}
+\bibinfo{author}{Roque, G.}, \bibinfo{author}{Cavalcanti, A.},
+  \bibinfo{author}{Nascimento, J.}, \bibinfo{author}{Souza, R.},
+  \bibinfo{author}{Queiroz, S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Botcovid: Development and evaluation of a chatbot to
+  combat misinformation about covid-19 in brazil}, in: \bibinfo{booktitle}{2021
+  IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{2506--2511}.
+%Type = Article
+\bibitem[{Shin(2022)}]{shin2022people}
+\bibinfo{author}{Shin, D.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{How do people judge the credibility of algorithmic
+  sources?}
+\newblock \bibinfo{journal}{Ai \& Society} \bibinfo{volume}{37},
+  \bibinfo{pages}{81--96}.
+%Type = Article
+\bibitem[{Siedlikowski et~al.(2021)Siedlikowski, No{\"e}l, Moynihan, Robin
+  et~al.}]{siedlikowski2021chloe}
+\bibinfo{author}{Siedlikowski, S.}, \bibinfo{author}{No{\"e}l, L.P.},
+  \bibinfo{author}{Moynihan, S.A.}, \bibinfo{author}{Robin, M.}, et~al.,
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Chloe for covid-19: Evolution of an intelligent
+  conversational agent to address infodemic management needs during the
+  covid-19 pandemic}.
+\newblock \bibinfo{journal}{Journal of Medical Internet Research}
+  \bibinfo{volume}{23}, \bibinfo{pages}{e27283}.
+%Type = Misc
+\bibitem[{Southwell and Thorson(2015)}]{southwell2015prevalence}
+\bibinfo{author}{Southwell, B.G.}, \bibinfo{author}{Thorson, E.A.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{The prevalence, consequence, and remedy of
+  misinformation in mass media systems}.
+%Type = Book
+\bibitem[{Sundar(2008)}]{sundar2008main}
+\bibinfo{author}{Sundar, S.S.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{The MAIN model: A heuristic approach to understanding
+  technology effects on credibility}.
+\newblock \bibinfo{publisher}{MacArthur Foundation Digital Media and Learning
+  Initiative Cambridge, MA}.
+%Type = Article
+\bibitem[{Swire et~al.(2017)Swire, Ecker and Lewandowsky}]{swire2017role}
+\bibinfo{author}{Swire, B.}, \bibinfo{author}{Ecker, U.K.},
+  \bibinfo{author}{Lewandowsky, S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{The role of familiarity in correcting inaccurate
+  information.}
+\newblock \bibinfo{journal}{Journal of experimental psychology: learning,
+  memory, and cognition} \bibinfo{volume}{43}, \bibinfo{pages}{1948}.
+%Type = Article
+\bibitem[{Swire-Thompson and Lazer(2019)}]{swire2019public}
+\bibinfo{author}{Swire-Thompson, B.}, \bibinfo{author}{Lazer, D.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Public health and online misinformation: challenges
+  and recommendations.}
+\newblock \bibinfo{journal}{Annual Review of Public Health}
+  \bibinfo{volume}{41}, \bibinfo{pages}{433--451}.
+%Type = Article
+\bibitem[{Teoh(2019)}]{teoh2019power}
+\bibinfo{author}{Teoh, D.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{The power of social media for hpv vaccination--not
+  fake news!}
+\newblock \bibinfo{journal}{American Society of Clinical Oncology Educational
+  Book} \bibinfo{volume}{39}, \bibinfo{pages}{75--78}.
+%Type = Article
+\bibitem[{Venkatesh et~al.(2003)Venkatesh, Morris, Davis and
+  Davis}]{venkatesh2003user}
+\bibinfo{author}{Venkatesh, V.}, \bibinfo{author}{Morris, M.G.},
+  \bibinfo{author}{Davis, G.B.}, \bibinfo{author}{Davis, F.D.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{User acceptance of information technology: Toward a
+  unified view}.
+\newblock \bibinfo{journal}{MIS quarterly} , \bibinfo{pages}{425--478}.
+%Type = Article
+\bibitem[{Vraga and Bode(2017)}]{vraga2017using}
+\bibinfo{author}{Vraga, E.K.}, \bibinfo{author}{Bode, L.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Using expert sources to correct health misinformation
+  in social media}.
+\newblock \bibinfo{journal}{Science Communication} \bibinfo{volume}{39},
+  \bibinfo{pages}{621--645}.
+%Type = Article
+\bibitem[{Walter and Murphy(2018)}]{walter2018unring}
+\bibinfo{author}{Walter, N.}, \bibinfo{author}{Murphy, S.T.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{How to unring the bell: A meta-analytic approach to
+  correction of misinformation}.
+\newblock \bibinfo{journal}{Communication Monographs} \bibinfo{volume}{85},
+  \bibinfo{pages}{423--441}.
+%Type = Article
+\bibitem[{Walter and Salovich(2021)}]{walter2021unchecked}
+\bibinfo{author}{Walter, N.}, \bibinfo{author}{Salovich, N.A.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Unchecked vs. uncheckable: How opinion-based claims
+  can impede corrections of misinformation}.
+\newblock \bibinfo{journal}{Mass Communication and Society}
+  \bibinfo{volume}{24}, \bibinfo{pages}{500--526}.
+%Type = Article
+\bibitem[{Walter and Tukachinsky(2020)}]{walter2020meta}
+\bibinfo{author}{Walter, N.}, \bibinfo{author}{Tukachinsky, R.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{A meta-analytic examination of the continued
+  influence of misinformation in the face of correction: How powerful is it,
+  why does it happen, and how to stop it?}
+\newblock \bibinfo{journal}{Communication research} \bibinfo{volume}{47},
+  \bibinfo{pages}{155--177}.
+%Type = Article
+\bibitem[{Walwema(2021)}]{walwema2021health}
+\bibinfo{author}{Walwema, J.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The who health alert: Communicating a global pandemic
+  with whatsapp}.
+\newblock \bibinfo{journal}{Journal of Business and Technical Communication}
+  \bibinfo{volume}{35}, \bibinfo{pages}{35--40}.
+%Type = Article
+\bibitem[{Wang(2021)}]{wang2021debunking}
+\bibinfo{author}{Wang, Y.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Debunking misinformation about genetically modified
+  food safety on social media: Can heuristic cues mitigate biased
+  assimilation?}
+\newblock \bibinfo{journal}{Science Communication} \bibinfo{volume}{43},
+  \bibinfo{pages}{460--485}.
+
+\end{thebibliography}
